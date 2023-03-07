@@ -9,7 +9,7 @@ The following features are implemented in this project:
 * `Object information collection`: The system collects information about the detected object and saves images to a PostgreSQL database.
 * `Dashboard interface`: The system provides a real-time visualization of object movement and drone response through a dashboard interface. The dashboard is implemented using Streamlit, Matplotlib, Seaborn, and Plotly.
 ![he dashboard interface](2.png)
-![he dashboard interface](12.png)
+![he dashboard interface](Beige Colorful Minimal Flowchart Infographic Graph (5).mp4)
 ![he dashboard interface](4.png)
 
 ## Requirements
