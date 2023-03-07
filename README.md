@@ -8,6 +8,9 @@ The following features are implemented in this project:
 * `Optimized drone movement`: The drone movement is optimized in real-time using a PID control system to ensure smooth and accurate tracking of the object.
 * `Object information collection`: The system collects information about the detected object and saves images to a PostgreSQL database.
 * `Dashboard interface`: The system provides a real-time visualization of object movement and drone response through a dashboard interface. The dashboard is implemented using Streamlit, Matplotlib, Seaborn, and Plotly.
+![he dashboard interface](2.png)
+![he dashboard interface](12.png)
+![he dashboard interface](4.png)
 
 ## Requirements
 The following technologies are required to run this project:
@@ -24,6 +27,8 @@ The following technologies are required to run this project:
 * Seaborn
 * Plotly
 * Streamlit
+![Uesed technologies](13.png)
+
 ## Usage
 To use this project, follow the steps below:
 
@@ -33,6 +38,7 @@ To use this project, follow the steps below:
 4. Run the main script using the command: `python main.py`.
 5. Open the dashboard interface by navigating to http://localhost:7777/ in your web browser.
 
+![he dashboard interface](8.png)
 ## The dashboard interface
 The dashboard interface of this project is designed to provide users with complete control over the drone and real-time data visualization capabilities. The interface is divided into three main sections: Real-Time AutoControl System, Real-Time Dashboard, and Data_history_Dashboard. Let's take a closer look at each of these sections:
 
