@@ -42,17 +42,17 @@ Following Object: This feature allows the drone to follow a detected object in r
 
 Collecting Data: This feature allows the drone to collect data related to the object being tracked, such as its size, color, and movement patterns. This data is saved in a database for later analysis.
 
-1. `Drone Configuration`: The drone configuration section provides users with various options related to drone control. The following features are available:
+**1. Drone Configuration**: The drone configuration section provides users with various options related to drone control. The following features are available:
 
-**Connect and check battery**: This feature allows users to connect to the TELLO drone and check its battery level, ensuring that the drone is ready for use.
+`Connect and check battery`: This feature allows users to connect to the TELLO drone and check its battery level, ensuring that the drone is ready for use.
 
-**Activate the Streamon**: This feature allows the drone to stream video feed in real-time. The dashboard interface provides an option to activate the Streamon feature, which enables the user to monitor the drone's movements and the object detection in real-time.
+`Activate the Streamon`: This feature allows the drone to stream video feed in real-time. The dashboard interface provides an option to activate the Streamon feature, which enables the user to monitor the drone's movements and the object detection in real-time.
 
-**Activate the takeoff**: This feature allows the drone to take off and begin its mission. This feature is essential for real-time object detection and tracking, as it enables the drone to move and follow the detected object.
+`Activate the takeoff`: This feature allows the drone to take off and begin its mission. This feature is essential for real-time object detection and tracking, as it enables the drone to move and follow the detected object.
 
-2. `Real-Time Dashboard`: This section of the dashboard interface provides users with real-time data visualization capabilities. The interface displays the object being tracked, the drone's current location, and other relevant data related to the object's movement and drone response. This feature enables users to monitor the system's performance in real-time and make adjustments as needed.
+**2. Real-Time Dashboard**: This section of the dashboard interface provides users with real-time data visualization capabilities. The interface displays the object being tracked, the drone's current location, and other relevant data related to the object's movement and drone response. This feature enables users to monitor the system's performance in real-time and make adjustments as needed.
 
-3. `Data_history_Dashboard`: This section of the dashboard interface provides users with historical data related to object detection and tracking. The interface displays data related to object movement and drone response over a specific period. This feature enables users to analyze the system's performance over time and make improvements as needed.
+**3. Data_history_Dashboard**: This section of the dashboard interface provides users with historical data related to object detection and tracking. The interface displays data related to object movement and drone response over a specific period. This feature enables users to analyze the system's performance over time and make improvements as needed.
 
 Overall, the dashboard interface of this project provides users with a comprehensive set of features related to drone control and real-time data visualization. The interface is designed to be user-friendly and intuitive, ensuring that users can take advantage of the full capabilities of the system.
 
