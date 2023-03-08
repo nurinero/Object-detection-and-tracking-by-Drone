@@ -8,9 +8,9 @@ The following features are implemented in this project:
 * `Optimized drone movement`: The drone movement is optimized in real-time using a PID control system to ensure smooth and accurate tracking of the object.
 * `Object information collection`: The system collects information about the detected object and saves images to a PostgreSQL database.
 * `Dashboard interface`: The system provides a real-time visualization of object movement and drone response through a dashboard interface. The dashboard is implemented using Streamlit, Matplotlib, Seaborn, and Plotly.
-![he dashboard interface](2.png)
-![he dashboard interface](full_system.gif)
-![he dashboard interface](4.png)
+![he dashboard interface](/videos/BMTD.gif)
+![he dashboard interface](/videos/flow_diagram.gif)
+![he dashboard interface](/videos/fWind_mill.jpg)
 
 ## Requirements
 The following technologies are required to run this project:
@@ -27,7 +27,7 @@ The following technologies are required to run this project:
 * Seaborn
 * Plotly
 * Streamlit
-![Uesed technologies](13.png)
+![Uesed technologies](/videos/Used_Technologies.jpg)
 
 ## Usage
 To use this project, follow the steps below:
@@ -38,7 +38,7 @@ To use this project, follow the steps below:
 4. Run the main script using the command: `python main.py`.
 5. Open the dashboard interface by navigating to http://localhost:7777/ in your web browser.
 
-![he dashboard interface](8.png)
+![dashboard interface runing](/videos/short_dashboard.gif)
 ## The dashboard interface
 The dashboard interface of this project is designed to provide users with complete control over the drone and real-time data visualization capabilities. The interface is divided into three main sections: Real-Time AutoControl System, Real-Time Dashboard, and Data_history_Dashboard. Let's take a closer look at each of these sections:
 
@@ -61,6 +61,7 @@ Collecting Data: This feature allows the drone to collect data related to the ob
 **3. Data_history_Dashboard**: This section of the dashboard interface provides users with historical data related to object detection and tracking. The interface displays data related to object movement and drone response over a specific period. This feature enables users to analyze the system's performance over time and make improvements as needed.
 
 Overall, the dashboard interface of this project provides users with a comprehensive set of features related to drone control and real-time data visualization. The interface is designed to be user-friendly and intuitive, ensuring that users can take advantage of the full capabilities of the system.
+![he dashboard interface](/videos/ral_time.gif)
 ![he dashboard interface](/videos/dashboard.mp4)
 
 ## Conclusion
