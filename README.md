@@ -1,5 +1,5 @@
 # Object Detection and Tracking by Drone
-This project aims to develop a system for real-time object detection and tracking using a drone, with a dashboard to visualize the object's movement and collect data. The system employs various technologies, including Python, NumPy, Pandas, TensorFlow, OpenCV, [YOLOv8](https://github.com/ultralytics/ultralytics), [TELLO](https://github.com/dji-sdk/Tello-Python) [PostgreSQL](https://github.com/postgres/postgres), Matplotlib, Seaborn, Plotly, and Streamlit.
+This project aims to develop a system for real-time object detection and tracking using a drone, with a dashboard to visualize the object's movement and collect data. The system employs various technologies, including [Python](https://www.python.org/), [NumPy](https://github.com/numpy/numpy), [Pandas](https://github.com/pandas-dev/pandas), [TensorFlow](https://github.com/tensorflow/tensorflow), [OpenCV](https://github.com/opencv/opencv), [YOLOv8](https://github.com/ultralytics/ultralytics), [TELLO](https://github.com/dji-sdk/Tello-Python) [PostgreSQL](https://github.com/postgres/postgres), [Matplotlib](https://github.com/matplotlib/matplotlib), [Seaborn](https://github.com/mwaskom/seaborn), [Plotly](https://github.com/plotly), and [Streamlit](https://github.com/streamlit).
 
 ## Features
 The following features are implemented in this project:
