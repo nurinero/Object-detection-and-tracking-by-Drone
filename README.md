@@ -10,7 +10,7 @@ The following features are implemented in this project:
 * `Dashboard interface`: The system provides a real-time visualization of object movement and drone response through a dashboard interface. The dashboard is implemented using Streamlit, Matplotlib, Seaborn, and Plotly.
 ![BMTD Features](/videos/BMTD.gif)
 ![flow diagram](/videos/flow_diagram.gif)
-![fWind mill](/videos/fWind_mill.jpg)
+![fWind mill](/videos/Wind_mill.jpg)
 
 ## Requirements
 The following technologies are required to run this project:
