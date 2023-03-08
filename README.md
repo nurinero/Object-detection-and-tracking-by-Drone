@@ -8,9 +8,9 @@ The following features are implemented in this project:
 * `Optimized drone movement`: The drone movement is optimized in real-time using a PID control system to ensure smooth and accurate tracking of the object.
 * `Object information collection`: The system collects information about the detected object and saves images to a PostgreSQL database.
 * `Dashboard interface`: The system provides a real-time visualization of object movement and drone response through a dashboard interface. The dashboard is implemented using Streamlit, Matplotlib, Seaborn, and Plotly.
-![he dashboard interface](/videos/BMTD.gif)
-![he dashboard interface](/videos/flow_diagram.gif)
-![he dashboard interface](/videos/fWind_mill.jpg)
+![BMTD Features](/videos/BMTD.gif)
+![flow diagram](/videos/flow_diagram.gif)
+![fWind mill](/videos/fWind_mill.jpg)
 
 ## Requirements
 The following technologies are required to run this project:
@@ -62,7 +62,6 @@ Collecting Data: This feature allows the drone to collect data related to the ob
 
 Overall, the dashboard interface of this project provides users with a comprehensive set of features related to drone control and real-time data visualization. The interface is designed to be user-friendly and intuitive, ensuring that users can take advantage of the full capabilities of the system.
 ![he dashboard interface](/videos/ral_time.gif)
-![he dashboard interface](/videos/dashboard.mp4)
 
 ## Conclusion
 This project demonstrates the development of a real-time object detection and tracking system using a drone. The system provides a dashboard interface to visualize the object's movement and collect data. The system can be further improved by implementing additional features such as multiple object tracking, object classification, and video recording.
