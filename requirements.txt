@@ -1,7 +1,7 @@
 python==3.9.16
 tensorflow==2.6.2
 ultralytics==8.0.18
-opencv-python==4.7.0.68
+opencv-python==4.8.1.78
 djitellopy==2.4.0 
 tello-python==1.1.6 
 numpy==1.23.5
